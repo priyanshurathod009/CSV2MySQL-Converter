@@ -12,6 +12,8 @@ Welcome to the **CSV to MySQL Data Importer** project! This Python script simpli
 - **Robust Error Handling**: Provides clear error messages and handles common issues.
 - **Performance Metrics**: Tracks and reports script execution time.
 
+![App Screenshot](https://github.com/priyanshurathod009/CSV2MySQL-Converter/blob/main/Image/images01.jpeg.jpg?raw=true)
+
 ## Getting Started
 
 Follow these instructions to set up and use the CSV to MySQL Data Importer.
